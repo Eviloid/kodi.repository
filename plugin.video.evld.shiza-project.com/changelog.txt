@@ -1,5 +1,8 @@
+[B]0.5.5[/B]
+* Починил получение прямых ссылок с sibnet.ru
+
 [B]0.5.4[/B]
-* поддержка TAM (torrent advanced manager)
+* Добавил поддержку TAM (torrent advanced manager)
 
 [B]Версия 0.5.3[/B]
 * Превью для онлайн просмотра
