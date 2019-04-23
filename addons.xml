@@ -1,5 +1,5 @@
 <addons>
-    <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.5.7" provider-name="Eviloid">
+    <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.5.8" provider-name="Eviloid">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.torrent2http" optional="true"/>
@@ -11,11 +11,11 @@
         <extension point="xbmc.addon.metadata">
             <platform>all</platform>
             <summary>SHIZA Project video addon</summary>
-    	    <website>http://shiza-project.com</website>
+            <website>http://shiza-project.com</website>
             <description>Творческий коллектив, объединивший под своим именем личности разного возраста, взглядов и профессии со всех концов мира. Целью которого является адаптация зарубежной анимации для русскоязычного зрителя. И порабощения мира с помощью Енотной армии!</description>
             <language>ru</language>
             <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
-            <news>[B]0.5.7[/B] - Починил раздел Избранное</news>
+            <news>[B]0.5.8[/B] - Починил раздел Поиск, видео с vk.com</news>
             <assets>
                 <icon>icon.png</icon>
                 <fanart>fanart.jpg</fanart>
@@ -36,7 +36,7 @@
         <extension point="xbmc.addon.metadata">
             <platform>all</platform>
             <summary>Goodgame video addon</summary>
-    	    <website>https://goodgame.ru</website>
+            <website>https://goodgame.ru</website>
             <description>Просмотр стримов с GoodGame.ru</description>
             <language>ru</language>
             <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
