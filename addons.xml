@@ -40,7 +40,7 @@
             <description>Просмотр стримов с GoodGame.ru</description>
             <language>ru</language>
             <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
-            <news>[B]0.1.10[/B] - Переделал работу с выбором качества стримов</news>
+            <news>[B]0.1.11[/B] - Исправил ошибки</news>
         </extension>
     </addon>    
 </addons>
