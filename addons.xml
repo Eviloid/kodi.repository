@@ -40,7 +40,7 @@
             <description>Просмотр стримов с GoodGame.ru</description>
             <language>ru</language>
             <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
-            <news>[B]0.1.11[/B] - Исправил ошибки</news>
+            <news>[B]0.1.12[/B] - Избранные стримы</news>
         </extension>
     </addon>
     <addon id="plugin.video.evld.mixer.com" name="Mixer" version="0.2.4" provider-name="Eviloid">
