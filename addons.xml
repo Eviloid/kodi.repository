@@ -43,10 +43,11 @@
             <news>[B]0.1.12[/B] - Избранные стримы</news>
         </extension>
     </addon>
-    <addon id="plugin.video.evld.mixer.com" name="Mixer" version="0.2.4" provider-name="Eviloid">
+    <addon id="plugin.video.evld.mixer.com" name="Mixer" version="0.2.5" provider-name="Eviloid">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.parsedom"/>
+            <import addon="script.module.tccleaner"/>
         </requires>
         <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
             <provides>video</provides>
@@ -57,7 +58,7 @@
             <description></description>
             <language>en</language>
             <source>https://github.com/Eviloid/plugin.video.evld.mixer.com</source>
-            <news>[B]0.2.4[/B] - First public release</news>
+            <news>[B]0.2.5[/B] - Use tccleaner module</news>
         </extension>
     </addon>
     <addon id="script.module.tccleaner" name="TextureCacheCleaner for Kodi Add-ons" provider-name="Eviloid" version="0.1.0">
