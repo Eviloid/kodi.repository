@@ -60,4 +60,22 @@
             <news>[B]0.2.4[/B] - First public release</news>
         </extension>
     </addon>
+    <addon id="script.module.tccleaner" name="TextureCacheCleaner for Kodi Add-ons" provider-name="Eviloid" version="0.1.0">
+        <requires>
+            <import addon="xbmc.python" version="2.1.0" />
+        </requires>
+        <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+            <summary lang="en">TextureCacheCleaner for Kodi Add-ons.</summary>
+        </extension>
+        <extsension library="lib" point="xbmc.python.module" />
+        <extension point="xbmc.addon.metadata">
+            <license>GPLv3</license>
+            <platform>all</platform>
+            <source>https://github.com/Eviloid/script.module.tccleaner</source>
+            <email></email>
+            <website></website>
+            <language></language>
+        </extension>
+    </addon>
 </addons>
