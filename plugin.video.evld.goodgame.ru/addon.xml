@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="0.1.12" provider-name="Eviloid">
+<addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="0.1.13" provider-name="Eviloid">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.parsedom"/>
+        <import addon="script.module.tccleaner"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
         <provides>video</provides>
@@ -14,6 +15,6 @@
         <description>Просмотр стримов с GoodGame.ru</description>
         <language>ru</language>
         <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
-        <news>[B]0.1.12[/B] - Избранные стримы</news>
+        <news>[B]0.1.13[/B] - Для очистки кэша картинок использую модуль tccleaner</news>
     </extension>
 </addon>
