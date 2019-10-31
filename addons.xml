@@ -63,7 +63,7 @@
             <news>[B]0.2.6[/B] - Set plugin content to 'videos'</news>
         </extension>
     </addon>
-    <addon id="plugin.video.evld.fanserials.tv" name="FanSerials" version="1.4.2" provider-name="Eviloid">
+    <addon id="plugin.video.evld.fanserials.tv" name="FanSerials" version="1.4.3" provider-name="Eviloid">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.parsedom"/>
@@ -81,7 +81,7 @@
             <website>http://fanserials.tv</website>
             <language>ru</language>
             <source>https://github.com/Eviloid/plugin.video.evld.fanserials.tv</source>
-            <news>[B]1.4.2[/B] - Починил работу через прокси</news>
+            <news>[B]1.4.3[/B] - Переделал раздел Новые сереалы</news>
         </extension>
     </addon>    
     <addon id="script.module.tccleaner" name="TextureCacheCleaner for Kodi Add-ons" provider-name="Eviloid" version="0.1.0">
