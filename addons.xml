@@ -84,7 +84,7 @@
             <news>[B]1.4.3[/B] - Переделал раздел Новые сереалы</news>
         </extension>
     </addon>
-    <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.0.1" provider-name="Eviloid">
+    <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.0.2" provider-name="Eviloid">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.parsedom"/>
@@ -100,7 +100,7 @@
             <language>ru</language>
             <website>https://www.currenttime.tv</website>
             <source>https://github.com/Eviloid/plugin.video.evld.currenttime.tv</source>
-            <news>[B]1.0.1[/B] - Первый публичный релиз</news>
+            <news>[B]1.0.2[/B] - Добавил альтернативный видеопоток</news>
             <assets>
                 <icon>icon.png</icon>
                 <fanart>fanart.jpg</fanart>
