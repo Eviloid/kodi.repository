@@ -117,10 +117,10 @@
       <import addon="script.module.torrent2http"/>
       <import addon="plugin.video.youtube" optional="true"/>
     </requires>
-    <extension point="xbmc.service" library="service.py"/>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
       <provides>video</provides>
     </extension>
+    <extension point="xbmc.service" library="service.py"/>
     <extension point="xbmc.addon.metadata">
       <platform>all</platform>
       <summary>Anilibria.tv video addon</summary>
