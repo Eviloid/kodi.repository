@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="1.0.1" provider-name="Eviloid">
+<addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="1.1.1" provider-name="Eviloid">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.parsedom"/>
@@ -15,6 +15,6 @@
         <description>Просмотр стримов с GoodGame.ru</description>
         <language>ru</language>
         <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
-        <news>[B]1.0.1[/B] - Добавил авторизацию и чтение избранных стримов с сайта</news>
+        <news>[B]1.1.1[/B] - Добавил стримы по играм</news>
     </extension>
 </addon>
