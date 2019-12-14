@@ -109,12 +109,12 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv Online" version="0.3.5" provider-name="Eviloid">
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv Online" version="0.3.6" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
       <import addon="script.module.tccleaner"/>
-      <import addon="script.module.torrent2http"/>
+      <import addon="script.module.torrent2http" optional="true"/>
       <import addon="plugin.video.youtube" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
@@ -124,7 +124,7 @@
     <extension point="xbmc.addon.metadata">
       <platform>all</platform>
       <summary>Anilibria.tv video addon</summary>
-      <description>Так звучит аниме!</description>
+      <description>Anilibria.tv - Так звучит аниме! Спасибо, что выбираете нас!</description>
       <language>ru</language>
       <email></email>
       <source></source>
