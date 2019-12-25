@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.5.15" provider-name="Eviloid">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.torrent2http" optional="true"/>
-        <import addon="script.module.parsedom"/>
-        <import addon="script.module.tccleaner"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary>SHIZA Project video addon</summary>
-        <description>Творческий коллектив, объединивший под своим именем личности разного возраста, взглядов и профессии со всех концов мира. Целью которого является адаптация зарубежной анимации для русскоязычного зрителя. И порабощения мира с помощью Енотной армии!</description>
-        <language>ru</language>
-        <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
-        <news>[B]0.5.15[/B] - Внешний вид, отмена загрузки торрента (могло зависнуть "намертво")</news>
-    </extension>
+<addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.5.18" provider-name="Eviloid">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.torrent2http" optional="true"/>
+    <import addon="script.module.parsedom"/>
+    <import addon="script.module.tccleaner"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>SHIZA Project video addon</summary>
+    <description>Творческий коллектив, объединивший под своим именем личности разного возраста, взглядов и профессии со всех концов мира. Целью которого является адаптация зарубежной анимации для русскоязычного зрителя. И порабощения мира с помощью Енотной армии!</description>
+    <language>ru</language>
+    <disclaimer>Для просмотра торрентов необходимо зарегистрироваться на сайте shiza-project.com</disclaimer>
+    <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
+    <news>[B]0.5.18[/B] - См. changelog.txt</news>
+  </extension>
 </addon>
