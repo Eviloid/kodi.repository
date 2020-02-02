@@ -110,7 +110,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.4.4" provider-name="Eviloid">
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.4.5" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -129,13 +129,11 @@
       <language>ru</language>
       <email></email>
       <source></source>
-      <news></news>
+      <website>https://www.anilibria.tv</website>
+      <news>[B]0.4.5[/B] - Добавил поиск</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
-        <banner></banner>
-        <clearlogo></clearlogo>
-        <screenshot></screenshot>
       </assets>
     </extension>
   </addon>
