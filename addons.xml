@@ -1,5 +1,5 @@
 <addons>
-  <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.6.2" provider-name="Eviloid">
+  <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.6.3" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.torrent2http" optional="true"/>
@@ -17,7 +17,7 @@
       <language>ru</language>
       <disclaimer>Для просмотра торрентов необходимо зарегистрироваться на сайте shiza-project.com</disclaimer>
       <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
-      <news>[B]0.6.2[/B] - Исправил ошибки</news>
+      <news>[B]0.6.3[/B] - Исправил описания</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
