@@ -135,11 +135,12 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.4.1" provider-name="Eviloid">
+  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.4.2" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
       <import addon="script.module.tccleaner"/>
+      <import addon="script.module.torrent2http" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
       <provides>video</provides>
@@ -151,7 +152,7 @@
       <language>ru</language>
       <email></email>
       <source></source>
-      <news>[B]0.4.1[/B] - Добавил воспроизведение торрентов</news>
+      <news>[B]0.4.2[/B] - Добавил зависимость для воспроизведения торрентов</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
