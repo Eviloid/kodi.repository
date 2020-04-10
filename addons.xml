@@ -85,7 +85,7 @@
       <news>[B]1.4.11[/B] - Починил переход "Все серии"</news>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.0.16" provider-name="Eviloid">
+  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.0.17" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -101,7 +101,7 @@
       <language>ru</language>
       <website>https://www.currenttime.tv</website>
       <source>https://github.com/Eviloid/plugin.video.evld.currenttime.tv</source>
-      <news>[B]1.0.16[/B] - Добавил программу "Балтия"</news>
+      <news>[B]1.0.17[/B] - Корректные отмена поиска и поиск пустой строки</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
