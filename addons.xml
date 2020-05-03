@@ -83,6 +83,13 @@
       <language>ru</language>
       <source>https://github.com/Eviloid/plugin.video.evld.fanserials.tv</source>
       <news>[B]1.5.2[/B] - Сменил прокси</news>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <screenshot>screens/scr1.jpg</screenshot>
+        <screenshot>screens/scr2.jpg</screenshot>
+        <screenshot>screens/scr3.jpg</screenshot>
+      </assets>
     </extension>
   </addon>
   <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.1.1" provider-name="Eviloid">
@@ -105,8 +112,9 @@
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
-        <clearlogo></clearlogo>
-        <screenshot></screenshot>
+        <screenshot>screens/scr1.jpg</screenshot>
+        <screenshot>screens/scr2.jpg</screenshot>
+        <screenshot>screens/scr3.jpg</screenshot>
       </assets>
     </extension>
   </addon>
@@ -131,6 +139,9 @@
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
+        <screenshot>screens/scr1.jpg</screenshot>
+        <screenshot>screens/scr2.jpg</screenshot>
+        <screenshot>screens/scr3.jpg</screenshot>
       </assets>
     </extension>
   </addon>
@@ -155,9 +166,9 @@
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
-        <banner></banner>
-        <clearlogo></clearlogo>
-        <screenshot></screenshot>
+        <screenshot>screens/scr1.jpg</screenshot>
+        <screenshot>screens/scr2.jpg</screenshot>
+        <screenshot>screens/scr3.jpg</screenshot>
       </assets>
     </extension>
   </addon>
