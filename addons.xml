@@ -145,7 +145,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.5.1" provider-name="Eviloid">
+  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.5.2" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -162,7 +162,7 @@
       <language>ru</language>
       <email></email>
       <source></source>
-      <news>[B]0.5.1[/B] - Исправил поиск</news>
+      <news>[B]0.5.2[/B] - Исправил поиск</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
