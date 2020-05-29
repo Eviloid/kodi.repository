@@ -44,6 +44,10 @@
       <language>ru</language>
       <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
       <news>[B]1.1.3[/B] - Неверно отображался статус избранных стримов</news>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+      </assets>
     </extension>
   </addon>
   <addon id="plugin.video.evld.mixer.com" name="Mixer" version="0.2.6" provider-name="Eviloid">
@@ -62,6 +66,10 @@
       <language>en</language>
       <source>https://github.com/Eviloid/plugin.video.evld.mixer.com</source>
       <news>[B]0.2.6[/B] - Set plugin content to 'videos'</news>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+      </assets>
     </extension>
   </addon>
   <addon id="plugin.video.evld.fanserials.tv" name="FanSerials" version="1.5.3" provider-name="Eviloid">
@@ -118,7 +126,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.6.2" provider-name="Eviloid">
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.6.3" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -135,7 +143,7 @@
       <description>Anilibria.tv - Так звучит аниме! Спасибо, что выбираете нас!</description>
       <language>ru</language>
       <website>https://www.anilibria.tv</website>
-      <news>[B]0.6.2[/B] - Доработал воспроизведение во внешнем плеере. Корректный парсинг заблокированных релизов.</news>
+      <news>[B]0.6.3[/B] - Починил воспроизведение в каталоге AnimePiK.</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
