@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.4" provider-name="Eviloid">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.parsedom"/>
+    <import addon="script.module.tccleaner" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>ДО///ДЬ — это независимый информационный телеканал, вещающий в прямом эфире 24 часа в сутки</summary>
+    <description>Каждый час новости о том, что происходит на самом деле.
+Аналитика, дискуссии и круглые столы с теми, кто нам интересен, о том, что нам важно.
+Прямые трансляции с площадок главных событий страны и мира.
+Документальные фильмы, видео-арт, музыка, социальные проекты.
+    </description>
+    <language>ru</language>
+    <website>https://www.tvrain.ru</website>
+    <source></source>
+    <news>[B]0.2.4[/B] - Первый релиз</news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <clearlogo></clearlogo>
+      <screenshot></screenshot>
+    </assets>
+  </extension>
+</addon>
