@@ -126,7 +126,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.6.6" provider-name="Eviloid">
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.6.7" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -143,7 +143,7 @@
       <description>Anilibria.tv - Так звучит аниме! Спасибо, что выбираете нас!</description>
       <language>ru</language>
       <website>https://www.anilibria.tv</website>
-      <news>[B]0.6.6[/B] - Добавил зеркало для внешнего плеера.</news>
+      <news>[B]0.6.7[/B] - Починил воспроизведение через внешний плеер.</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
