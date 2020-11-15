@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.fanserials.tv" name="FanSerials" version="1.5.8" provider-name="Eviloid">
+<addon id="plugin.video.evld.fanserials.tv" name="FanSerials" version="1.6.0" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.parsedom"/>
@@ -17,7 +17,7 @@
     <website>https://fanserial.net</website>
     <language>ru</language>
     <source>https://github.com/Eviloid/plugin.video.evld.fanserials.tv</source>
-    <news>[B]1.5.8[/B] - utf-8 в ссылках</news>
+    <news>[B]1.6.0[/B] - Добавил поддержку alloha player</news>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
