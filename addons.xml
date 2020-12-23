@@ -50,7 +50,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.mixer.com" name="Mixer" version="0.2.6" provider-name="Eviloid">
+  <addon id="plugin.video.evld.mixer.com" name="[COLOR gray]Mixer (obsolete)[/COLOR]" version="0.2.6" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -72,7 +72,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.fanserials.tv" name="FanSerials" version="1.6.3" provider-name="Eviloid">
+  <addon id="plugin.video.evld.fanserials.tv" name="[COLOR gray]FanSerials (obsolete)[/COLOR]" version="1.6.3" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
