@@ -112,7 +112,7 @@
     <extension point="xbmc.addon.metadata">
       <platform>all</platform>
       <summary>ТВ канал "Настоящее Время - архив телепрограмм, видео и прямой эфир</summary>
-      <description>Настоящее Время – это 24-часовое телевизионное и интернет вещание, ориентированное на русскоязычную аудиторию в России, странах Центральной и Восточной Европы, а также по всему миру.Настоящее Время – совместный медиапроект Радио Свобода/Свободная Европа и "Голоса Америки".</description>
+      <description>Настоящее Время – это 24-часовое телевизионное и интернет вещание, ориентированное на русскоязычную аудиторию в России, странах Центральной и Восточной Европы, а также по всему миру. Настоящее Время – совместный медиапроект Радио Свобода/Свободная Европа и "Голоса Америки".</description>
       <language>ru</language>
       <website>https://www.currenttime.tv</website>
       <source>https://github.com/Eviloid/plugin.video.evld.currenttime.tv</source>
@@ -153,7 +153,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.8.2" provider-name="Eviloid">
+  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.8.3" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -170,7 +170,7 @@
       <language>ru</language>
       <email></email>
       <source></source>
-      <news>[B]0.8.2[/B] - Поправил воспроизведение через kodik-player</news>
+      <news>[B]0.8.3[/B] - Альтернативный способ получения торрентов (включается в настройках).</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
