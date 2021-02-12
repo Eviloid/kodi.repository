@@ -210,7 +210,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.1.8" provider-name="Eviloid">
+  <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.1.9" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -227,7 +227,7 @@
       <language>ru</language>
       <disclaimer></disclaimer>
       <source></source>
-      <news>[B]0.1.8[/B] - Тестовая версия</news>
+      <news>[B]0.1.9[/B] - Категории в описании</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
