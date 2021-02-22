@@ -1,4 +1,28 @@
 <addons>
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.7.1" provider-name="Eviloid">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+      <import addon="script.module.parsedom"/>
+      <import addon="script.module.tccleaner"/>
+      <import addon="script.module.torrent2http" optional="true"/>
+      <import addon="plugin.video.youtube" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary>Anilibria.tv video addon</summary>
+      <description>Anilibria.tv - Так звучит аниме! Спасибо, что выбираете нас!</description>
+      <language>ru</language>
+      <website>https://www.anilibria.tv</website>
+      <news>[B]0.7.1[/B] - Адрес сайта в настройках</news>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+      </assets>
+    </extension>
+  </addon>
   <addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.10" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
