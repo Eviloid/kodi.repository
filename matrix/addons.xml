@@ -1,5 +1,5 @@
 <addons>
-  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.7.2" provider-name="Eviloid">
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.7.4" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom"/>
@@ -16,7 +16,7 @@
       <description>Anilibria.tv - Так звучит аниме! Спасибо, что выбираете нас!</description>
       <language>ru</language>
       <website>https://www.anilibria.tv</website>
-      <news>[B]0.7.2[/B] - Исправил ссылки на обложки</news>
+      <news>[B]0.7.4[/B] - Исправил ссылки на обложки</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
