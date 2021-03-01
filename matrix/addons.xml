@@ -23,7 +23,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.8.5" provider-name="Eviloid">
+  <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.8.6" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom"/>
@@ -40,7 +40,7 @@
       <language>ru</language>
       <email></email>
       <source></source>
-      <news>[B]0.8.5[/B] - Возрастной рейтинг в описании</news>
+      <news>[B]0.8.6[/B] - Ошибка при воспроизведении торрентов</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
