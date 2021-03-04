@@ -195,7 +195,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="script.module.torrent2http" name="torrent2http" version="0.1.4" provider-name="anteo, Eviloid">
+  <addon id="script.module.torrent2http" name="torrent2http" version="0.1.5" provider-name="anteo, Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
     </requires>
