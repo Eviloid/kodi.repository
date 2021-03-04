@@ -2,10 +2,10 @@
 <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.7.4" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.parsedom"/>
-    <import addon="script.module.tccleaner"/>
-    <import addon="script.module.torrent2http" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true"/>
+    <import addon="script.module.parsedom" version="2.5.3"/>
+    <import addon="script.module.tccleaner" version="0.1.1"/>
+    <import addon="script.module.torrent2http" version="0.1.4" optional="true"/>
+    <import addon="plugin.video.youtube" version="6.8.10+matrix.1" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
     <provides>video</provides>

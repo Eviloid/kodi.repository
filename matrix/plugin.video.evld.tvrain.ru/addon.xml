@@ -2,8 +2,8 @@
 <addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.10" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.parsedom"/>
-    <import addon="script.module.tccleaner" optional="true"/>
+    <import addon="script.module.parsedom" version="2.5.3"/>
+    <import addon="script.module.tccleaner" version="0.1.1" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>

@@ -2,8 +2,8 @@
 <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.5" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.parsedom"/>
-    <import addon="script.module.tccleaner" optional="true"/>
+    <import addon="script.module.parsedom" version="2.5.3"/>
+    <import addon="script.module.tccleaner" version="0.1.1" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
     <provides>video</provides>

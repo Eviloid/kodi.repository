@@ -2,10 +2,10 @@
   <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.7.4" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom"/>
-      <import addon="script.module.tccleaner"/>
-      <import addon="script.module.torrent2http" optional="true"/>
-      <import addon="plugin.video.youtube" optional="true"/>
+      <import addon="script.module.parsedom" version="2.5.3"/>
+      <import addon="script.module.tccleaner" version="0.1.1"/>
+      <import addon="script.module.torrent2http" version="0.1.4" optional="true"/>
+      <import addon="plugin.video.youtube" version="6.8.10+matrix.1" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
       <provides>video</provides>
@@ -26,9 +26,9 @@
   <addon id="plugin.video.evld.animedia.tv" name="AniMedia.TV Online" version="0.8.6" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom"/>
-      <import addon="script.module.tccleaner"/>
-      <import addon="script.module.torrent2http" optional="true"/>
+      <import addon="script.module.parsedom" version="2.5.3"/>
+      <import addon="script.module.tccleaner" version="0.1.1"/>
+      <import addon="script.module.torrent2http" version="0.1.4" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
       <provides>video</provides>
@@ -53,9 +53,9 @@
   <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.8.4" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom"/>
-      <import addon="script.module.tccleaner"/>
-      <import addon="script.module.torrent2http" optional="true"/>
+      <import addon="script.module.parsedom" version="2.5.3"/>
+      <import addon="script.module.tccleaner" version="0.1.1"/>
+      <import addon="script.module.torrent2http" version="0.1.4" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="addon.py">
       <provides>video</provides>
@@ -80,8 +80,8 @@
   <addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.10" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom"/>
-      <import addon="script.module.tccleaner" optional="true"/>
+      <import addon="script.module.parsedom" version="2.5.3"/>
+      <import addon="script.module.tccleaner" version="0.1.1" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
       <provides>video</provides>
@@ -110,8 +110,8 @@
   <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.5" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom"/>
-      <import addon="script.module.tccleaner" optional="true"/>
+      <import addon="script.module.parsedom" version="2.5.3"/>
+      <import addon="script.module.tccleaner" version="0.1.1" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
       <provides>video</provides>
@@ -135,8 +135,8 @@
   <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.2.1" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom"/>
-      <import addon="script.module.tccleaner"/>
+      <import addon="script.module.parsedom" version="2.5.3"/>
+      <import addon="script.module.tccleaner" version="0.1.1"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="addon.py">
       <provides>video</provides>
@@ -176,7 +176,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective, Eviloid" version="2.5.3">
+  <addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective, Eviloid" version="2.5.4">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
     </requires>
