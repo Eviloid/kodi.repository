@@ -107,11 +107,11 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.5" provider-name="Eviloid">
+  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.6" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom" version="2.5.3"/>
-      <import addon="script.module.tccleaner" version="0.1.1" optional="true"/>
+      <import addon="script.module.tccleaner" version="0.1.1"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
       <provides>video</provides>
@@ -123,7 +123,7 @@
       <language>ru</language>
       <website>https://www.currenttime.tv</website>
       <source>https://github.com/Eviloid/plugin.video.evld.currenttime.tv</source>
-      <news>[B]1.2.5[/B] - Поправил выбор качества прямого эфира и видео</news>
+      <news>[B]1.2.6[/B] - Описание видео</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
