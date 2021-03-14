@@ -158,7 +158,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="1.1.4" provider-name="Eviloid">
+  <addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="1.1.5" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom"/>
@@ -174,7 +174,7 @@
       <description>Просмотр стримов с GoodGame.ru</description>
       <language>ru</language>
       <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
-      <news>[B]1.1.4[/B] - версия для Kodi 19 Matrix</news>
+      <news>[B]1.1.5[/B] - поправил нумерацию страниц</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
