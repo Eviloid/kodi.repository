@@ -158,6 +158,31 @@
       </assets>
     </extension>
   </addon>
+  <addon id="plugin.video.evld.goodgame.ru" name="Goodgame" version="1.1.4" provider-name="Eviloid">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+      <import addon="script.module.parsedom"/>
+      <import addon="script.module.tccleaner"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary>Goodgame video addon</summary>
+      <website>https://goodgame.ru</website>
+      <description>Просмотр стримов с GoodGame.ru</description>
+      <language>ru</language>
+      <source>https://github.com/Eviloid/plugin.video.evld.goodgame.ru</source>
+      <news>[B]1.1.4[/B] - версия для Kodi 19 Matrix</news>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <clearlogo></clearlogo>
+        <screenshot></screenshot>
+      </assets>
+    </extension>
+  </addon>
   <addon id="script.module.tccleaner" name="TextureCacheCleaner for Kodi Add-ons" provider-name="Eviloid" version="0.1.1">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
