@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.9.3" provider-name="Eviloid">
+<addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.9.4" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.parsedom"/>
@@ -16,7 +16,7 @@
     <description>Творческий коллектив, объединивший под своим именем личности разного возраста, взглядов и профессии со всех концов мира. Целью которого является адаптация зарубежной анимации для русскоязычного зрителя. И порабощения мира с помощью Енотной армии!</description>
     <language>ru</language>
     <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
-    <news>[B]0.9.3[/B] - Тестовая версия для нового сайта</news>
+    <news>[B]0.9.4[/B] - Починил радио</news>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
