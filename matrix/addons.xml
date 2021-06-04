@@ -201,7 +201,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective, Eviloid" version="2.5.4">
+  <addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective, Eviloid" version="2.5.5">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
     </requires>
