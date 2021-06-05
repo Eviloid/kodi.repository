@@ -132,11 +132,11 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.2.1" provider-name="Eviloid">
+  <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.2.3" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.parsedom" version="2.5.3"/>
-      <import addon="script.module.tccleaner" version="0.1.1"/>
+      <import addon="script.module.parsedom"/>
+      <import addon="script.module.tccleaner"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="addon.py">
       <provides>video</provides>
@@ -149,7 +149,7 @@
       <language>ru</language>
       <disclaimer></disclaimer>
       <source></source>
-      <news>[B]0.2.1[/B] - Переделал работу парсера</news>
+      <news>[B]0.2.3[/B] - Информация при воспроизведении</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
