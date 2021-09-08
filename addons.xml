@@ -99,7 +99,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.11" provider-name="Eviloid">
+  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.12" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
       <import addon="script.module.parsedom"/>
@@ -115,7 +115,7 @@
       <language>ru</language>
       <website>https://www.currenttime.tv</website>
       <source>https://github.com/Eviloid/plugin.video.evld.currenttime.tv</source>
-      <news>[B]1.2.11[/B] - Новый подкаст "Человек имеет право"</news>
+      <news>[B]1.2.12[/B] - Новый подкаст "После 9/11"</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
