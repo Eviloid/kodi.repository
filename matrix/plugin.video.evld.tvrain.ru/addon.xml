@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.10" provider-name="Eviloid">
+<addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.11" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.parsedom" version="2.5.3"/>
@@ -20,7 +20,7 @@
     <language>ru</language>
     <website>https://www.tvrain.ru</website>
     <source></source>
-    <news>[B]0.2.10[/B] - Новые ссылки прямого эфира</news>
+    <news>[B]0.2.11[/B] - Поиск и все видео через API</news>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
