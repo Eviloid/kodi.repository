@@ -1,5 +1,5 @@
 <addons>
-  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.8.3" provider-name="Eviloid">
+  <addon id="plugin.video.evld.anilibria.tv" name="Anilibria.tv" version="0.8.5" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom" version="2.5.3"/>
@@ -16,7 +16,7 @@
       <description>Anilibria.tv - Так звучит аниме! Спасибо, что выбираете нас!</description>
       <language>ru</language>
       <website>https://www.anilibria.tv</website>
-      <news>[B]0.8.3[/B] - Убрал AnimePiK. Починил воспроизведение в основном плеере</news>
+      <news>[B]0.8.5[/B] - Починил воспроизведение в основном плеере</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
