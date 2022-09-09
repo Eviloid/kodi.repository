@@ -50,7 +50,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.9.3" provider-name="Eviloid">
+  <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.9.7" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom" version="2.5.3"/>
@@ -68,7 +68,7 @@
       <language>ru</language>
       <disclaimer>Для просмотра торрентов необходимо зарегистрироваться на сайте shiza-project.com</disclaimer>
       <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
-      <news>[B]0.9.3[/B] - Добавил радио</news>
+      <news>[B]0.9.7[/B] - Поддержка kodik</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
