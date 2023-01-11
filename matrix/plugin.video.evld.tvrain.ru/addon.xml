@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.2.11" provider-name="Eviloid">
+<addon id="plugin.video.evld.tvrain.ru" name="Д О /// Д Ь" version="0.3.2" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.parsedom" version="2.5.3"/>
@@ -16,11 +16,11 @@
 Прямые трансляции с площадок главных событий страны и мира.
 Документальные фильмы, видео-арт, музыка, социальные проекты.
     </description>
-    <disclaimer>Для просмотра контента необходима платная подписка</disclaimer>
+    <disclaimer>Для просмотра контента необходима регистрация на сайте</disclaimer>
     <language>ru</language>
-    <website>https://www.tvrain.ru</website>
+    <website>https://www.tvrain.tv</website>
     <source></source>
-    <news>[B]0.2.11[/B] - Поиск и все видео через API</news>
+    <news>[B]0.3.2[/B] - Адаптация к новому сайту и API</news>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
