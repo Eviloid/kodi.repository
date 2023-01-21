@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<addon id="script.module.tccleaner" name="TextureCacheCleaner for Kodi Add-ons" provider-name="Eviloid" version="0.1.1">
+<addon id="script.module.tccleaner" name="TextureCacheCleaner for Kodi Add-ons" provider-name="Eviloid" version="0.1.2">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
