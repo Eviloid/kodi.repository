@@ -133,7 +133,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.3.11" provider-name="Eviloid">
+  <addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.3.12" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom"/>
@@ -151,7 +151,7 @@
       <language>ru</language>
       <disclaimer></disclaimer>
       <source></source>
-      <news>[B]0.3.11[/B] - починил воспроизведение CDNPlayer</news>
+      <news>[B]0.3.12[/B] - ошибка при проверке ссылок</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
