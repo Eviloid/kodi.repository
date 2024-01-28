@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.3.12" provider-name="Eviloid">
+<addon id="plugin.video.evld.hdkinoteatr.com" name="HD KinoTeatr" version="0.4.1" provider-name="Eviloid">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.parsedom"/>
@@ -17,7 +17,7 @@
     <language>ru</language>
     <disclaimer></disclaimer>
     <source></source>
-    <news>[B]0.3.12[/B] - ошибка при проверке ссылок</news>
+    <news>[B]0.4.1[/B] - выбор в настройках приоритетного плеера</news>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
