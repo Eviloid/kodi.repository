@@ -50,12 +50,11 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.9.8" provider-name="Eviloid">
+  <addon id="plugin.video.evld.shiza-project.com" name="SHIZA Project" version="0.9.10" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom" version="2.5.3"/>
       <import addon="script.module.tccleaner" version="0.1.1"/>
-      <import addon="script.module.torrent2http" version="0.1.4" optional="true"/>
     </requires>
     <extension point="xbmc.python.pluginsource" provides="video" library="addon.py">
       <provides>video</provides>
@@ -66,9 +65,8 @@
       <website>http://shiza-project.com</website>
       <description>Творческий коллектив, объединивший под своим именем личности разного возраста, взглядов и профессии со всех концов мира. Целью которого является адаптация зарубежной анимации для русскоязычного зрителя. И порабощения мира с помощью Енотной армии!</description>
       <language>ru</language>
-      <disclaimer>Для просмотра торрентов необходимо зарегистрироваться на сайте shiza-project.com</disclaimer>
       <source>https://github.com/Eviloid/plugin.video.evld.shiza-project.com</source>
-      <news>[B]0.9.8[/B] - Починил kodik</news>
+      <news>[B]0.9.10[/B] - Починил kodik</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
