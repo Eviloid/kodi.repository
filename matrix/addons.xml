@@ -105,7 +105,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.18" provider-name="Eviloid">
+  <addon id="plugin.video.evld.currenttime.tv" name="CurrentTime.TV" version="1.2.19" provider-name="Eviloid">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.parsedom" version="2.5.3"/>
@@ -121,8 +121,7 @@
       <language>ru</language>
       <website>https://www.currenttime.tv</website>
       <source>https://github.com/Eviloid/plugin.video.evld.currenttime.tv</source>
-    <news>[B]1.2.18[/B] - Починил видео Радио Свобода
-    </news>
+    <news>[B]1.2.19[/B] - Починил воспроизведение видео</news>
       <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
